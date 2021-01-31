@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="08200" version="1.0" xsi:noNamespaceSchemaLocation="http://www.aemet.es/xsd/localidades.xsd">
+	<origen>
+		<productor>Agencia Estatal de Meteorología - AEMET. Gobierno de España</productor>
+		<web>http://www.aemet.es</web>
+		<enlace>http://www.aemet.es/es/eltiempo/prediccion/municipios/sant-boi-de-llobregat-id08200</enlace>
+		<language>es</language>
+		<copyright>© AEMET. Autorizado el uso de la información y su reproducción citando a AEMET como autora de la misma.</copyright>
+		<nota_legal>http://www.aemet.es/es/nota_legal</nota_legal>
+	</origen>
+	<elaborado>2016-12-19T11:40:01</elaborado>
+	<nombre>Sant Boi de Llobregat</nombre>
+	<provincia>Barcelona</provincia>
+	<prediccion>
+		<dia fecha="2016-12-19">
+			<prob_precipitacion periodo="00-24">100</prob_precipitacion>
+			<estado_cielo periodo="00-24" descripcion="Cubierto con lluvia">26</estado_cielo>
+			<viento periodo="00-24">
+				<direccion>NE</direccion>
+				<velocidad>25</velocidad>
+			</viento>
+			<temperatura>
+				<maxima>12</maxima>
+				<minima>5</minima>
+			</temperatura>
+			<sens_termica>
+				<maxima>12</maxima>
+				<minima>2</minima>
+			</sens_termica>
+			<humedad_relativa>
+				<maxima>85</maxima>
+				<minima>55</minima>
+			</humedad_relativa>
+		</dia>
+		<dia fecha="2016-12-20">
+			<prob_precipitacion periodo="00-24">80</prob_precipitacion>
+			<estado_cielo periodo="00-24" descripcion="Muy nuboso con lluvia">25</estado_cielo>
+			<viento periodo="00-24">
+				<direccion>NO</direccion>
+				<velocidad>20</velocidad>
+			</viento>
+			<temperatura>
+				<maxima>13</maxima>
+				<minima>7</minima>
+			</temperatura>
+			<sens_termica>
+				<maxima>13</maxima>
+				<minima>4</minima>
+			</sens_termica>
+			<humedad_relativa>
+				<maxima>90</maxima>
+				<minima>55</minima>
+			</humedad_relativa>
+		</dia>
+		<dia fecha="2016-12-21">
+			<prob_precipitacion periodo="00-24">70</prob_precipitacion>
+			<estado_cielo periodo="00-24" descripcion="Nuboso con lluvia escasa">44</estado_cielo>
+			<viento periodo="00-24">
+				<direccion>NO</direccion>
+				<velocidad>15</velocidad>
+			</viento>
+			<temperatura>
+				<maxima>13</maxima>
+				<minima>6</minima>
+			</temperatura>
+			<sens_termica>
+				<maxima>13</maxima>
+				<minima>2</minima>
+			</sens_termica>
+			<humedad_relativa>
+				<maxima>95</maxima>
+				<minima>50</minima>
+			</humedad_relativa>
+		</dia>
+		<dia fecha="2016-12-22">
+			<prob_precipitacion periodo="00-24">20</prob_precipitacion>
+			<estado_cielo periodo="00-24" descripcion="Intervalos nubosos">13</estado_cielo>
+			<viento periodo="00-24">
+				<direccion>C</direccion>
+				<velocidad>0</velocidad>
+			</viento>
+			<temperatura>
+				<maxima>16</maxima>
+				<minima>4</minima>
+			</temperatura>
+			<sens_termica>
+				<maxima>16</maxima>
+				<minima>4</minima>
+			</sens_termica>
+			<humedad_relativa>
+				<maxima>70</maxima>
+				<minima>45</minima>
+			</humedad_relativa>
+		</dia>
+		<dia fecha="2016-12-23">
+			<prob_precipitacion>0</prob_precipitacion>
+			<estado_cielo descripcion="Despejado">11</estado_cielo>
+			<viento>
+				<direccion>NO</direccion>
+				<velocidad>10</velocidad>
+			</viento>
+			<temperatura>
+				<maxima>15</maxima>
+				<minima>4</minima>
+			</temperatura>
+			<sens_termica>
+				<maxima>15</maxima>
+				<minima>3</minima>
+			</sens_termica>
+			<humedad_relativa>
+				<maxima>85</maxima>
+				<minima>55</minima>
+			</humedad_relativa>
+		</dia>
+		<dia fecha="2016-12-24">
+			<prob_precipitacion>5</prob_precipitacion>
+			<estado_cielo descripcion="Nubes altas">17</estado_cielo>
+			<viento>
+				<direccion>NO</direccion>
+				<velocidad>15</velocidad>
+			</viento>
+			<temperatura>
+				<maxima>14</maxima>
+				<minima>4</minima>
+			</temperatura>
+			<sens_termica>
+				<maxima>14</maxima>
+				<minima>1</minima>
+			</sens_termica>
+			<humedad_relativa>
+				<maxima>100</maxima>
+				<minima>65</minima>
+			</humedad_relativa>
+		</dia>
+		<dia fecha="2016-12-25">
+			<prob_precipitacion>10</prob_precipitacion>
+			<estado_cielo descripcion="Nuboso">14</estado_cielo>
+			<viento>
+				<direccion>NO</direccion>
+				<velocidad>10</velocidad>
+			</viento>
+			<temperatura>
+				<maxima>14</maxima>
+				<minima>4</minima>
+			</temperatura>
+			<sens_termica>
+				<maxima>14</maxima>
+				<minima>4</minima>
+			</sens_termica>
+			<humedad_relativa>
+				<maxima>85</maxima>
+				<minima>55</minima>
+			</humedad_relativa>
+		</dia>
+	</prediccion>
+</root>
